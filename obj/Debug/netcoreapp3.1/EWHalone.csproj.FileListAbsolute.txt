@@ -1,0 +1,26 @@
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.exe
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.deps.json
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.runtimeconfig.json
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.runtimeconfig.dev.json
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.dll
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.pdb
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.csprojAssemblyReference.cache
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.AssemblyInfoInputs.cache
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.AssemblyInfo.cs
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.csproj.CoreCompileInputs.cache
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.dll
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.pdb
+C:\Users\hgo237\source\repos\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.genruntimeconfig.cache
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.exe
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.deps.json
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.runtimeconfig.json
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.runtimeconfig.dev.json
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.dll
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\bin\Debug\netcoreapp3.1\EWHalone.pdb
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.csprojAssemblyReference.cache
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.AssemblyInfoInputs.cache
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.AssemblyInfo.cs
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.csproj.CoreCompileInputs.cache
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.dll
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.pdb
+Z:\Huangjie-Shared\EPRI ENGAGE SPIDER\EWHalone\EWHalone\obj\Debug\netcoreapp3.1\EWHalone.genruntimeconfig.cache
